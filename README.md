@@ -33,6 +33,9 @@ check string is palindrome or not.
 ### 9. swapNumber.cpp
 swaping two numbers.
 
+### 10. sumOfArray.cpp
+sum all elements of an array.
+
 ## 🛠️ Topics
 
 - C++ Basics

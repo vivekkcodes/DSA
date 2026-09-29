@@ -36,6 +36,9 @@ swaping two numbers.
 ### 10. sumOfArray.cpp
 sum all elements of an array.
 
+### 11. reverseString.cpp
+reverse string without using reverse().
+
 ## 🛠️ Topics
 
 - C++ Basics

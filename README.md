@@ -39,6 +39,9 @@ sum all elements of an array.
 ### 11. reverseString.cpp
 reverse string without using reverse().
 
+### 12. reverseArray.cpp
+reverse array by using pointer.
+
 ## 🛠️ Topics
 
 - C++ Basics

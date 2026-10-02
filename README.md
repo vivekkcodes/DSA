@@ -5,11 +5,9 @@ This repository contains my C++ programs and practice problems while learning C+
 ## 📂 Programs
 
 ### 1. secondLargestnum.cpp
-
 Finds the second largest number in an array.
 
 ### 2. frequency.cpp
-
 Finds the frequency of elements in an array.
 
 ### 3.zeroToEnd.cpp
@@ -42,6 +40,8 @@ reverse string without using reverse().
 ### 12. reverseArray.cpp
 reverse array by using pointer.
 
+### 13. firstNonRepeating.cpp
+find first non-repeating element in an array.
 ## 🛠️ Topics
 
 - C++ Basics

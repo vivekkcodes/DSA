@@ -42,6 +42,10 @@ reverse array by using pointer.
 
 ### 13. firstNonRepeating.cpp
 find first non-repeating element in an array.
+
+### 14. removeDuplicates.cpp
+remove duplicates without using another array.
+
 ## 🛠️ Topics
 
 - C++ Basics
